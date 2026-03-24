@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/GitHub-sonikadeshwal-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://sonikadeshwal.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sonikadeshwal.netlify.app-00bfff?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-00bfff?style=for-the-badge" />
 </p>
 
@@ -117,6 +121,7 @@ Interactive analytics dashboard for sales trends, profit margins, customer segme
 
 | Platform | Link |
 |---|---|
+| 🌐 Portfolio | [sonikadeshwal.netlify.app](https://sonikadeshwal.netlify.app/) |
 | 🔗 LinkedIn | [linkedin.com/in/sonikadeshwal](https://www.linkedin.com/in/sonikadeshwal/) |
 | 🐙 GitHub | [github.com/sonikadeshwal](https://github.com/sonikadeshwal) |
 | 📱 WhatsApp | +91-9671941306 |
